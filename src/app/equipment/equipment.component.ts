@@ -12,4 +12,8 @@ export class EquipmentComponent implements OnInit {
   ngOnInit() {
   }
 
+  // addItem(name: string, mass: number) {
+  //   this.cargoHold.push({name: name, mass: mass});
+  //   this.cargoMass += item['mass'];
+  // }
 }
